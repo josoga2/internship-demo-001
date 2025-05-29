@@ -1,0 +1,2 @@
+# Non-Technical Administrators
+Non-Technical Administrators are HackBio representatives who support learners during HackBio events, mainly internships. They handle all administrative tasks that do not involve direct learning, such as coding or scientific training. Their responsibilities change as the internship progresses, ensuring smooth operations, clear communication, and a great experience for all participants.
